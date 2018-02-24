@@ -1,0 +1,49 @@
+﻿@using DevLiftMediWebAPI.Models
+@model IEnumerable<TodoItem>
+
+@{ Layout = "_Layout"; }
+<form id="addform" asp-action="AddTodoItem" method="post">
+    <div class="form-group">
+        <label for="Name">Name:</label>
+        <input class="form-control" name="Name" style="width:25%" required />
+    </div>
+    <div class="form-group">
+        <label for="IsComplete">IsComplete:</label>
+        <input class="form-control" name="IsComplete" style="width:25%" required />
+    </div>
+    <div class="text-left panel-body">
+        <button type="submit" class="btn btn-sm btn-primary">Add</button>
+    </div>
+</form>
+<table class="table table-sm table-striped table-bordered m-2">
+    <thead><tr><th>ID</th><th>Task</th><th>Completed</th></tr></thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Id</td>
+                <td>@item.Name</td>
+                <td>@item.IsComplete</td>
+                <td class="text-center">
+                    <form asp-action="Delete" method="post">
+                        <a asp-action="Edit" asp-controller="home" asp-route-id="@item.Id" class="btn btn-sm btn-warning">
+                            Edit
+                        </a>
+                        <input type="hidden" name="Id" value="@item.Id" />
+                        <button type="submit" class="btn btn-danger btn-sm">
+                            Delete
+                        </button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+    <tr>
+        <td>
+            @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        </td>
+    </tr>
+</table>
+
+
+

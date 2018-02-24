@@ -1,0 +1,11 @@
+C:\Users\Ujay\Documents\Visual Studio 2017\Projects\Taltop\DevLiftMediWebAPI\DevLiftMediWebAPI\bin\Debug\netcoreapp2.0\DevLiftMediWebAPI.deps.json
+C:\Users\Ujay\Documents\Visual Studio 2017\Projects\Taltop\DevLiftMediWebAPI\DevLiftMediWebAPI\bin\Debug\netcoreapp2.0\DevLiftMediWebAPI.runtimeconfig.json
+C:\Users\Ujay\Documents\Visual Studio 2017\Projects\Taltop\DevLiftMediWebAPI\DevLiftMediWebAPI\bin\Debug\netcoreapp2.0\DevLiftMediWebAPI.runtimeconfig.dev.json
+C:\Users\Ujay\Documents\Visual Studio 2017\Projects\Taltop\DevLiftMediWebAPI\DevLiftMediWebAPI\bin\Debug\netcoreapp2.0\DevLiftMediWebAPI.dll
+C:\Users\Ujay\Documents\Visual Studio 2017\Projects\Taltop\DevLiftMediWebAPI\DevLiftMediWebAPI\bin\Debug\netcoreapp2.0\DevLiftMediWebAPI.pdb
+C:\Users\Ujay\Documents\Visual Studio 2017\Projects\Taltop\DevLiftMediWebAPI\DevLiftMediWebAPI\obj\Debug\netcoreapp2.0\DevLiftMediWebAPI.csprojResolveAssemblyReference.cache
+C:\Users\Ujay\Documents\Visual Studio 2017\Projects\Taltop\DevLiftMediWebAPI\DevLiftMediWebAPI\obj\Debug\netcoreapp2.0\DevLiftMediWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\Ujay\Documents\Visual Studio 2017\Projects\Taltop\DevLiftMediWebAPI\DevLiftMediWebAPI\obj\Debug\netcoreapp2.0\DevLiftMediWebAPI.AssemblyInfoInputs.cache
+C:\Users\Ujay\Documents\Visual Studio 2017\Projects\Taltop\DevLiftMediWebAPI\DevLiftMediWebAPI\obj\Debug\netcoreapp2.0\DevLiftMediWebAPI.AssemblyInfo.cs
+C:\Users\Ujay\Documents\Visual Studio 2017\Projects\Taltop\DevLiftMediWebAPI\DevLiftMediWebAPI\obj\Debug\netcoreapp2.0\DevLiftMediWebAPI.dll
+C:\Users\Ujay\Documents\Visual Studio 2017\Projects\Taltop\DevLiftMediWebAPI\DevLiftMediWebAPI\obj\Debug\netcoreapp2.0\DevLiftMediWebAPI.pdb
